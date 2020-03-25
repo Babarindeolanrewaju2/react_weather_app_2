@@ -4,7 +4,8 @@ import Titles from "./components/Titles";
 import Form from "./components/Form";
 import Weather from "./components/Weather";
 
-const API_KEY = "d48edac74a4c33f178394ce14e6bb57b";
+const API_KEY = "3585775f387b0d0cba6c5b3dc41b8167";
+
 class App extends React.Component {
   state = {
     temperature: undefined,
